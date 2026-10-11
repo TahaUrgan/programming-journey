@@ -1,0 +1,3 @@
+Mehmet,29
+ögrenci1,20
+Ahmet,31
